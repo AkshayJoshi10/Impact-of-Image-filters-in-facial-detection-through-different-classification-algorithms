@@ -4,9 +4,9 @@ Research Focus:
 The study aimed to investigate how different filters impact the accuracy of face detection using various classification algorithms.Comparison of algorithms: Six different algorithms were used: CNN, Random Forest, SVM, Gaussian Naïve Bayes, KNN, and Logistic Regression.
 
 Datasets:
-1-Unfiltered dataset: 1600 images of eight students (200 images each).
-2-Filtered dataset: 8000 images of eight students (1000 images each), using a mix of five filters (blur, cut-out, mosaic, noise, and shear).
-3-Individual filtered datasets: Five additional datasets, each created using a single filter.
+Unfiltered dataset: 1600 images of eight students (200 images each).
+Filtered dataset: 8000 images of eight students (1000 images each), using a mix of five filters (blur, cut-out, mosaic, noise, and shear).
+Individual filtered datasets: Five additional datasets, each created using a single filter.
 
 Findings:
 1-Overall impact of filters: The overall impact of filters on face detection accuracy was minimal.
