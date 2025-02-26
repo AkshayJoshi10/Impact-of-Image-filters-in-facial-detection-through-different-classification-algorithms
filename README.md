@@ -6,9 +6,7 @@ The study aimed to investigate how different filters impact the accuracy of face
 Datasets:
 
 Unfiltered dataset: 1600 images of eight students (200 images each).
-
 Filtered dataset: 8000 images of eight students (1000 images each), using a mix of five filters (blur, cut-out, mosaic, noise, and shear).
-
 Individual filtered datasets: Five additional datasets, each created using a single filter.
 
 Findings:
