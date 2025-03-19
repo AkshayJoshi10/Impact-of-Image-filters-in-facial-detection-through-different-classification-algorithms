@@ -1,1 +1,4 @@
 # Project Background
+
+Face detection is a crucial task in computer vision, but how do image filters affect its accuracy? In this study, we explored the impact of five filters—blur, cut-out, mosaic, noise, and shear—on different classification methods. We created two datasets: one with 1,600 unfiltered images of eight students and another with 8,000 filtered images using a mix of these filters. Additionally, we generated five datasets, each containing images modified by a single filter.
+We tested six machine learning algorithms (CNN, Random Forest, SVM, Gaussian Naïve Bayes, KNN, and Logistic Regression) to compare performance on filtered vs. unfiltered images. Our findings revealed that most filters had little to no effect, except for the blur filter, which significantly impacted detection accuracy. A paired t-test confirmed this, suggesting that while most filters do not alter classification results, blurring can make face detection more challenging
